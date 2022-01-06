@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+/ErrorLogger.txt
+/RequestLogger.txt
+
 # testing
 /coverage
 
