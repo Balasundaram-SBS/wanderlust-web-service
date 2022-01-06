@@ -1,0 +1,44 @@
+Error: Could not connect to Database
+    at D:\new project\wanderlust-react latest\wanderlust-react\wanderlust-web-service\src\utilities\connections.js:260:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Could not connect to Database
+    at D:\new project\wanderlust-react latest\wanderlust-react\wanderlust-web-service\src\utilities\connections.js:260:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Could not connect to Database
+    at D:\new project\wanderlust-react latest\wanderlust-react\wanderlust-web-service\src\utilities\connections.js:260:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+MongooseError: Operation `Destinations.distinct()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\new project\wanderlust-react latest\wanderlust-react\wanderlust-web-service\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+MongooseError: Operation `Destinations.distinct()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\new project\wanderlust-react latest\wanderlust-react\wanderlust-web-service\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+Error: Could not connect to Database
+    at D:\new project\wanderlust-react latest\wanderlust-react\wanderlust-web-service\src\utilities\connections.js:260:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Could not connect to Database
+    at D:\new project\wanderlust-react latest\wanderlust-react\wanderlust-web-service\src\utilities\connections.js:260:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+MongooseError: Operation `Destinations.distinct()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\new project\wanderlust-react latest\wanderlust-react\wanderlust-web-service\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+Error: Could not connect to Database
+    at D:\new project\wanderlust-react latest\wanderlust-react\wanderlust-web-service\src\utilities\connections.js:260:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Could not connect to Database
+    at D:\new project\wanderlust-react latest\wanderlust-react\wanderlust-web-service\src\utilities\connections.js:260:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+MongooseError: Operation `Destinations.distinct()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\new project\wanderlust-react latest\wanderlust-react\wanderlust-web-service\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+Error: Could not connect to Database
+    at D:\new project\wanderlust-react latest\wanderlust-react\wanderlust-web-service\src\utilities\connections.js:260:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+MongooseError: Operation `Destinations.distinct()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\new project\wanderlust-react latest\wanderlust-react\wanderlust-web-service\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
