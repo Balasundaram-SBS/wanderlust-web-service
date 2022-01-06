@@ -1,7 +1,7 @@
 const { Schema } = require("mongoose");
 const Mongoose = require("mongoose")
 Mongoose.Promise = global.Promise;
-const url = "mongodb://localhost:27017/Wanderlust_DB";
+const url = "mongodb+srv://username:password@users.n97mm.mongodb.net/Wanderlust_DB?retryWrites=true&w=majority";
 
 let userSchema = Schema({
     name: {
